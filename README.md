@@ -1,7 +1,12 @@
-# azoresbot
+# AzoresBot
 
-Robot criado para o 1º festival de robótica dos Açores.
+Robot criado para o 1º Festival Regional de Robótica dos Açores.
 
--Compilação de Ficeheiros stl para impressão 3D
-+
--Bibliotecas para Arduino
+## Ficheiros
+
+Ficheiros stl para impressão 3D
+
+Bibliotecas para o AzoresBot
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
