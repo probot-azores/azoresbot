@@ -8,7 +8,8 @@ Ficheiros stl para impressão 3D.
 
 Bibliotecas para o AzoresBot.
 
-Ficheiro SVG de pista segue linha para o AzoresBot mas não só.
+Ficheiro SVG de pista segue linha para o AzoresBot e não só.
+Tamanho da pista - 1682x2378mm.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
